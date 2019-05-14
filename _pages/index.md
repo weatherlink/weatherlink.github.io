@@ -2,20 +2,18 @@
 layout: splash
 permalink: /
 feature_row:
-  - title: "Placeholder 2"
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - title: "WeatherLink v2 API"
+    # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    # alt: "placeholder image 2"
+    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/v2-api"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - title: "Placeholder 2"
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - title: "WeatherLink Live Local API"
+    # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    # alt: "placeholder image 2"
+    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/weatherlink-live-local-api"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
