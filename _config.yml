@@ -2,6 +2,11 @@ remote_theme: mmistakes/minimal-mistakes@4.16.3
 
 title: ""
 
+url: "https://weatherlink.github.io"
+
+after_footer_scripts:
+- /assets/js/footer-copyright.js
+
 include:
 - _pages
 
