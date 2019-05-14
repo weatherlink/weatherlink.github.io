@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Woot woot
+title: WeatherLink APIs
 permalink: /splash
 header:
   overlay_color: "#000"
