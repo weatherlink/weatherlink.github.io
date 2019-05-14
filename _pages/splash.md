@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: WeatherLink Developer Portal
+title: Welcome to the WeatherLink Developer Portal
 permalink: /splash
 header:
   overlay_color: "#000000"
