@@ -1,10 +1,10 @@
 remote_theme: mmistakes/minimal-mistakes@4.16.3
 
-title: "WeatherLink APIs"
+# title: "WeatherLink APIs"
 
 url: "https://weatherlink.github.io"
 
-logo: /assets/images/logo_100.png
+# logo: /assets/images/logo_100.png
 
 after_footer_scripts:
 - /assets/js/footer-copyright.js
