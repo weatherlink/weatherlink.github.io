@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Woot woot
 permalink: /splash
 header:
   overlay_color: "#000"
