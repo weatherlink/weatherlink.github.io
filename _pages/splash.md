@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Welcome to the WeatherLink Developer Portal
+title: WeatherLink Developer Portal
 permalink: /splash
 header:
   overlay_color: "#000000"
@@ -9,7 +9,7 @@ header:
 # actions:
 #   - label: "Download"
 #     url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "aa"
+excerpt: ""
 feature_row:
   - title: "WeatherLink v2 API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API"
