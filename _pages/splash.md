@@ -9,7 +9,7 @@ header:
 # actions:
 #   - label: "Download"
 #     url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: ""
+excerpt: "Access your WeatherLink data"
 feature_row:
   - title: "WeatherLink v2 API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API"
