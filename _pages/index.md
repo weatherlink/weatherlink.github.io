@@ -4,7 +4,7 @@ title: WeatherLink Developer Portal
 permalink: /
 header:
   overlay_color: "#000000"
-  overlay_filter: "0.25"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/landing.jpg
 # actions:
 #   - label: "Download"
