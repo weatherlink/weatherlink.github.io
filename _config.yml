@@ -7,10 +7,11 @@ url: "https://weatherlink.github.io"
 # logo: /assets/images/logo_100.png
 
 after_footer_scripts:
-- /assets/js/footer-copyright.js
+  - /assets/js/author.js
+  - /assets/js/footer-copyright.js
 
 include:
-- _pages
+  - _pages
 
 plugins:
-- jekyll-include-cache
+  - jekyll-include-cache
