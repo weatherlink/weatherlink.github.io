@@ -4,11 +4,11 @@ title: "WeatherLink"
 
 url: "https://weatherlink.github.io"
 
-# logo: /assets/images/logo_100.png
+# logo: /assets/vendor/weatherlink/images/logo_100.png
 
 after_footer_scripts:
-  - /assets/js/author.js
-  - /assets/js/footer-copyright.js
+  - /assets/vendor/weatherlink/js/author.js
+  - /assets/vendor/weatherlink/js/footer-copyright.js
 
 include:
   - _pages
