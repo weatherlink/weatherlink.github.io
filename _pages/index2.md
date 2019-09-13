@@ -32,21 +32,21 @@ feature_row:
 feature_row_1:
   - title: "WeatherLink v2 API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API"
-    # image_path: /assets/vendor/weatherlink/images/logo_108.png
+    image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/v2-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
 feature_row_2:
   - title: "WeatherLink Live Local API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink Live Local API"
-    # image_path: /assets/vendor/weatherlink/images/logo_108.png
+    image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/weatherlink-live-local-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
 feature_row_3:
   - title: "WeatherLink Real-time Data Feed"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed"
-    # image_path: /assets/vendor/weatherlink/images/logo_108.png
+    image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/real-time-data-feed"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
