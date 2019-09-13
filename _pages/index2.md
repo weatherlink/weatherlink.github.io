@@ -13,13 +13,13 @@ excerpt: "Access your weather station data"
 feature_row:
   - title: "WeatherLink v2 API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API.<br><br>The WeatherLink v2 API can be used to access weather station metadata and weather observation data for WeatherLink connected weather stations you have access to."
-    image_path: /assets/vendor/weatherlink/images/stock_photo_2.png
+    image_path: /assets/vendor/weatherlink/images/stock_photo_2.jpg
     url: "/v2-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
   - title: "WeatherLink Live Local API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink Live Local API"
-    image_path: /assets/vendor/weatherlink/images/stock_photo_1.png
+    image_path: /assets/vendor/weatherlink/images/stock_photo_1.jpg
     url: "/weatherlink-live-local-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
