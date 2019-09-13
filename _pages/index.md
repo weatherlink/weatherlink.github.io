@@ -24,7 +24,7 @@ feature_row:
     btn_label: "View Documentation"
     btn_class: "btn--primary"
   - title: "Real-time Data Feed"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed, referred to as RDF from here on, is a real-time data stream of the weather observation data records for WeatherLink connected weather stations that you have access to."
+    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed is a real-time data stream of the weather observation data records for WeatherLink connected weather stations you have access to."
     # image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/real-time-data-feed"
     btn_label: "View Documentation"
