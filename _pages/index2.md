@@ -25,26 +25,7 @@ feature_row:
     btn_class: "btn--primary"
   - title: "Real-time Data Feed"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed is a real-time data stream of the weather observation data records for WeatherLink connected weather stations you have access to."
-    image_path: /assets/vendor/weatherlink/images/stock_photo_3.jpg
-    url: "/real-time-data-feed"
-    btn_label: "View Documentation"
-    btn_class: "btn--primary"
-feature_row_a:
-  - title: "Real-time Data Feed"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed is a real-time data stream of the weather observation data records for WeatherLink connected weather stations you have access to."
     image_path: /assets/vendor/weatherlink/images/stock_photo_3_1.jpg
-    url: "/real-time-data-feed"
-    btn_label: "View Documentation"
-    btn_class: "btn--primary"
-  - title: "Real-time Data Feed"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed is a real-time data stream of the weather observation data records for WeatherLink connected weather stations you have access to."
-    image_path: /assets/vendor/weatherlink/images/stock_photo_3_2.jpg
-    url: "/real-time-data-feed"
-    btn_label: "View Documentation"
-    btn_class: "btn--primary"
-  - title: "Real-time Data Feed"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed is a real-time data stream of the weather observation data records for WeatherLink connected weather stations you have access to."
-    image_path: /assets/vendor/weatherlink/images/stock_photo_3_3.jpg
     url: "/real-time-data-feed"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
@@ -65,8 +46,6 @@ feature_row_2:
 ---
 
 {% include feature_row id="feature_row" %}
-
-{% include feature_row id="feature_row_a" %}
 
 <!--
 {% include feature_row id="feature_row_1" type="left" %}
