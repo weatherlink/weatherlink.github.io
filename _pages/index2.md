@@ -12,7 +12,7 @@ header:
 excerpt: "Access your weather station data"
 feature_row:
   - title: "WeatherLink v2 API"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API"
+    excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API.<br><br>The WeatherLink v2 API can be used to access weather station metadata and weather observation data for WeatherLink connected weather stations you have access to."
     # image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/v2-api"
     btn_label: "View Documentation"
@@ -23,8 +23,8 @@ feature_row:
     url: "/weatherlink-live-local-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
-  - title: "WeatherLink Real-time Data Feed"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed"
+  - title: "Real-time Data Feed"
+    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed is a real-time data stream of the weather observation data records for WeatherLink connected weather stations you have access to."
     # image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/real-time-data-feed"
     btn_label: "View Documentation"
@@ -32,32 +32,24 @@ feature_row:
 feature_row_1:
   - title: "WeatherLink v2 API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API"
-    image_path: /assets/vendor/weatherlink/images/logo_108.png
+    # image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/v2-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
 feature_row_2:
   - title: "WeatherLink Live Local API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink Live Local API"
-    image_path: /assets/vendor/weatherlink/images/logo_108.png
+    # image_path: /assets/vendor/weatherlink/images/logo_108.png
     url: "/weatherlink-live-local-api"
-    btn_label: "View Documentation"
-    btn_class: "btn--primary"
-feature_row_3:
-  - title: "WeatherLink Real-time Data Feed"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed"
-    image_path: /assets/vendor/weatherlink/images/logo_108.png
-    url: "/real-time-data-feed"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
 
-
+<!--
 {% include feature_row id="feature_row_1" type="left" %}
-
-
-{% include feature_row id="feature_row_2" type="right" %}
-
-{% include feature_row id="feature_row_3" type="left" %}
+-->
+<!--
+{% include feature_row id="feature_row_2" type="left" %}
+-->
