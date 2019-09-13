@@ -58,6 +58,6 @@ feature_row_3:
 {% include feature_row id="feature_row_1" type="left" %}
 
 
-{% include feature_row id="feature_row_2" type="left" %}
+{% include feature_row id="feature_row_2" type="right" %}
 
 {% include feature_row id="feature_row_3" type="left" %}
