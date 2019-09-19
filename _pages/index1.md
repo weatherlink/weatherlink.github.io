@@ -11,7 +11,7 @@ header:
 #     url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Access your weather station data"
 dev_newsletter_signup: 
-  - excerpt: 'Signup for WeatherLink developer related news and announcements<br><form><input type="text" placeholder="email"><input type="submit"></form>'
+  - excerpt: 'Signup for WeatherLink developer related news and announcements<br><form><input type="text" placeholder="email"/><input type="submit"/></form>'
 feature_row_1:
   - title: "WeatherLink v2 API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API.<br><br>The WeatherLink v2 API can be used to access weather station metadata and weather observation data for WeatherLink connected weather stations you have access to."
