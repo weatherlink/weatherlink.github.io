@@ -12,7 +12,7 @@ header:
 excerpt: "Access your weather station data"
 feature_row:
   - title: "WeatherLink v2 API"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API.<br><br>The WeatherLink v2 API can be used to access weather station metadata and weather observation data for WeatherLink Live and EnviroMonitor weather stations that you have access to."
+    excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API.<br><br>The WeatherLink v2 API can be used to access weather station metadata and weather observation data for WeatherLink.com weather stations that you have access to."
     image_path: /assets/vendor/weatherlink/images/stock_photo_2.jpg
     url: "/v2-api"
     btn_label: "View Documentation"
