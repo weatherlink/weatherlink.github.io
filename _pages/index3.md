@@ -10,21 +10,28 @@ header:
 #   - label: "Download"
 #     url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Access your weather station data"
-feature_row_1:
+feature_row_v2_api:
   - title: "WeatherLink v2 API"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink v2 API.<br><br>The WeatherLink v2 API can be used to access weather station metadata and weather observation data for WeatherLink connected weather stations you have access to."
     image_path: /assets/vendor/weatherlink/images/v2_api.jpg
     url: "/v2-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
-feature_row_2:
+feature_row_airlink_local_api:
+  - title: "AirLink Local API"
+    excerpt: "Documentation for the AirLink Local API.<br><br>The AirLink Local API can be used to get current conditions directly from an AirLink device using a JSON over HTTP API."
+    image_path: /assets/vendor/weatherlink/images/airlink_local_api.jpg
+    url: "/airlink-local-api"
+    btn_label: "View Documentation"
+    btn_class: "btn--primary"
+feature_row_weatherlink_live_local_api:
   - title: "WeatherLink Live Local API"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Live Local API.<br><br>The WeatherLink Live Local API can be used to get current conditions directly from a WeatherLink Live device using a REST API as well as receive real-time data broadcasts over UDP."
+    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Live Local API.<br><br>The WeatherLink Live Local API can be used to get current conditions directly from a WeatherLink Live device using a JSON over HTTP API as well as receive real-time data broadcasts over UDP."
     image_path: /assets/vendor/weatherlink/images/weatherlink_live_local_api.jpg
     url: "/weatherlink-live-local-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
-feature_row_3:
+feature_row_realtime_data_feed:
   - title: "Real-time Data Feed"
     excerpt: "Documentation and samples demonstrating the use of the WeatherLink Real-time Data Feed.<br><br>The WeatherLink Real-time Data Feed is a real-time data stream of the weather observation data records for WeatherLink connected weather stations you have access to."
     image_path: /assets/vendor/weatherlink/images/realtime_data_feed_lightblue.jpg
@@ -33,6 +40,8 @@ feature_row_3:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_1" type="left" %}
-{% include feature_row id="feature_row_2" type="right" %}
-{% include feature_row id="feature_row_3" type="left" %}
+{% include feature_row id="feature_row_v2_api" type="left" %}
+{% include feature_row id="feature_row_airlink_local_api" type="right" %}
+{% include feature_row id="feature_row_weatherlink_live_local_api" type="left" %}
+{% include feature_row id="feature_row_realtime_data_feed" type="right" %}
+
