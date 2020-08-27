@@ -18,13 +18,13 @@ feature_row:
     btn_label: "View Documentation"
     btn_class: "btn--primary"
   - title: "AirLink Local API"
-    excerpt: "Documentation for the AirLink Local API.<br><br>The AirLink Local API can be used to get current conditions directly from an AirLink device using a REST API."
+    excerpt: "Documentation for the AirLink Local API.<br><br>The AirLink Local API can be used to get current conditions directly from an AirLink device using a JSON over HTTP API."
     image_path: /assets/vendor/weatherlink/images/airlink_local_api.jpg
     url: "/airlink-local-api"
     btn_label: "View Documentation"
     btn_class: "btn--primary"
   - title: "WeatherLink Live Local API"
-    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Live Local API.<br><br>The WeatherLink Live Local API can be used to get current conditions directly from a WeatherLink Live device using a REST API as well as receive real-time data broadcasts over UDP."
+    excerpt: "Documentation and samples demonstrating the use of the WeatherLink Live Local API.<br><br>The WeatherLink Live Local API can be used to get current conditions directly from a WeatherLink Live device using a JSON over HTTP API as well as receive real-time data broadcasts over UDP."
     image_path: /assets/vendor/weatherlink/images/weatherlink_live_local_api.jpg
     url: "/weatherlink-live-local-api"
     btn_label: "View Documentation"
