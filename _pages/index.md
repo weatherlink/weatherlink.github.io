@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: WeatherLink Developer Portal
-permalink: /index
+permalink: /
 header:
   overlay_color: "#000000"
   overlay_filter: "0.0"
