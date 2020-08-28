@@ -41,7 +41,7 @@ feature_row_realtime_data_feed:
 ---
 
 {% include feature_row id="feature_row_v2_api" type="left" %}
-{% include feature_row id="feature_row_airlink_local_api" type="right" %}
+{% include feature_row id="feature_row_airlink_local_api" type="left" %}
 {% include feature_row id="feature_row_weatherlink_live_local_api" type="left" %}
-{% include feature_row id="feature_row_realtime_data_feed" type="right" %}
+{% include feature_row id="feature_row_realtime_data_feed" type="left" %}
 
